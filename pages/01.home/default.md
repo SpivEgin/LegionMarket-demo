@@ -2,18 +2,18 @@
 title: Home
 ---
 
-# Grav is Running!
+# Legion Market is Running!
 ## You have installed **Grav** successfully
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
+Congratulations! You have installed the **Base Legion Market Package** that provides a **simple page** and the default **antimatter** theme to get you started.
 
 !!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
 ### Find out all about Grav
 
 * Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+* Download **plugins**, **themes**, as well as other Legion Market **skeleton** packages from the [Legion Market Downloads](http://getgrav.org/downloads) page.
+* Check out our [Legion Market Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
 
 ### Edit this Page
 
