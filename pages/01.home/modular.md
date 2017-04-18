@@ -9,4 +9,4 @@ content:
     custom:
       - _photos
 ---
-Make you flyer Active<br />by Active Flyers
+Make your flyer Active<br />by Active Flyers
